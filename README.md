@@ -92,4 +92,4 @@ python bank.py
 - Decision Tree provides interpretable results
 - Achieved good classification accuracy on test data
 
-Author Rithiga L
+Author Rithiga L | BCA Undergraduate | python Begginner | python enthusiast | Data Science Intern
